@@ -1,2 +1,2 @@
 # BAISeg
-WSIS Method
+Code will be available soon.
