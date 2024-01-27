@@ -1,2 +1,2 @@
 # BAISeg
-Code will be available soon.
+Code will be open-sourced after acceptance.
